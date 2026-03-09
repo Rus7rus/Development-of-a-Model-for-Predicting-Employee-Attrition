@@ -18,9 +18,14 @@ The data used in this project is the **[HR Analytics Case Study](https://www.kag
 * **Modeling:** Evaluated Logistic Regression, Random Forest, and **XGBoost** to find the optimal balance between precision and recall.
 
 ## 📈 Key Insights
-* **Overwork Factor:** Employees exceeding **250 monthly hours** show a critical increase in attrition risk.
-* **Project Load:** A "U-shaped" risk profile was identified: employees with either too few (2) or too many (6+) projects are most likely to leave.
-* **Performance Paradox:** High-performing employees with long tenures but no recent promotions are a primary flight risk.
+
+It was found that employees resign according to three main scenarios:
+
+- in departments with low requirements — dismissal at the initiative of management due to non-compliance with the company's performance requirements;
+
+- experienced specialists — due to the lack of career growth opportunities.
+
+- experienced specialists — due to excessive workload.
 
 
 
