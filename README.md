@@ -1,5 +1,4 @@
 # Predicting Employee Turnover: Development of a Risk Assessment Model and Analysis of Key Attrition Factors
-[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Rus7rus/Development-of-a-Model-for-Predicting-Employee-Attrition/blob/main/Capstone_Project_Salifort_Motors.ipynb)
 
 ## Project Overview
 This Capstone Project focuses on predicting employee attrition at **Salifort Motors**. By analyzing high-dimensional HR data, I developed a machine learning solution to identify key turnover drivers and provide actionable insights for talent retention.
