@@ -1,1 +1,3 @@
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/ТВОЙ_НИК/РЕПОЗИТОРИЙ/blob/main/ФАЙЛ.ipynb)
+# Employee Attrition Prediction Project
+
+[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Rus7rus/Development-of-a-Model-for-Predicting-Employee-Attrition/blob/main/Capstone_Project_Salifort_Motors.ipynb)
