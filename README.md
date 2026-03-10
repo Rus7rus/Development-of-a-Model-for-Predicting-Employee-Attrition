@@ -24,6 +24,7 @@ It was found that employees resign according to three main scenarios:
 
 - experienced specialists — due to excessive workload.
 
+<img width="1842" height="1807" alt="dataRelationship plot between variables average_monthly_hours and last_evaluation" src="https://github.com/user-attachments/assets/f7d48e60-a625-4f41-8ce6-98c371926f7f" />
 
 
 ## How to View the Project
