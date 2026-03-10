@@ -39,7 +39,8 @@ It was found that employees resign according to three main scenarios:
 
 - experienced specialists — due to excessive workload.
 
-<img width="689" height="624" alt="dataRelationship plot between variables average_monthly_hours and last_evaluation" src="https://github.com/user-attachments/assets/6183d0c6-6336-46b3-ba35-bd9f9d042ad0" />
+<img width="689" height="624" alt="dataRelationship plot between variables average_monthly_hours and last_evaluation" src="https://github.com/user-attachments/assets/7cb7ae24-463b-49df-b336-e0923cf22252" />
+
 
 ## Recommendations
 
@@ -59,6 +60,7 @@ To mitigate turnover across different employee segments (Clusters 1, 2, and 3), 
 
 - HR Capacity Building: Conduct a comprehensive re-evaluation of the HR department. Based on the results, provide targeted training to improve their qualification levels in talent management and organizational support.
 
+<img width="533" height="425" alt="dataRelationship between last_evaluation and satisfaction_level" src="https://github.com/user-attachments/assets/2c5d8a4e-ba6a-4825-a87c-817574f5b172" />
   
 
 ## How to View the Project
