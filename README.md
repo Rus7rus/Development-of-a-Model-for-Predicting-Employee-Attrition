@@ -16,7 +16,8 @@ The data used in this project is the **[HR capstone dataset.csv](https://www.kag
 
 ## Evaluation of model results
 ### Confusion matrix
-<img width="515" height="455" alt="dataConfusion Matrix" src="https://github.com/user-attachments/assets/153de0a7-b967-4130-9e81-a408aaefd403" />
+<img width="257" height="225" alt="dataConfusion Matrix" src="https://github.com/user-attachments/assets/5f0d74bb-8072-4685-958c-308e857e68b0" />
+
 
 
 The results showed the model's high effectiveness. Among all employees whom the model predicts will be laid off, 89% are actually laid off, meaning that 11% of predictions are false positives.
