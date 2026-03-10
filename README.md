@@ -6,15 +6,13 @@ This Capstone Project focuses on predicting employee attrition at **Salifort Mot
 ### Dataset
 The data used in this project is the **[HR capstone dataset.csv](https://www.kaggle.com/datasets/ruskolo/hr-capstone-dataset-salifort-motors?select=HR_capstone_dataset.csv)** (HR_capstone_dataset.csv). It contains 14,999 rows and 10 attributes representing employee satisfaction, performance, workload, and tenure.
 
-
-
 ## Technical Highlights
-* **Data Cleaning:** Handled missing values and removed **3,000+ duplicates** to ensure data integrity.
-* **Feature Engineering:** * Performed **Discretization (Binning)** on continuous variables like `satisfaction_level` and `average_monthly_hours` to capture non-linear relationships.
+- **Data Cleaning:** Handled missing values and removed **3,000+ duplicates** to ensure data integrity.
+- **Feature Engineering:** * Performed **Discretization (Binning)** on continuous variables like `satisfaction_level` and `average_monthly_hours` to capture non-linear relationships.
     * Implemented `OneHotEncoder(drop='first')` to eliminate multicollinearity (**Dummy Variable Trap**).
-* **Robust Validation:** * Executed a **Train/Validation/Test split (70/15/15)**.
+- **Robust Validation:** * Executed a **Train/Validation/Test split (70/15/15)**.
     * Applied **Stratification** (`stratify=y`) to maintain the 16.6% churn rate across all datasets.
-* **Modeling:** Evaluated Logistic Regression, Random Forest, and **XGBoost** to find the optimal balance between precision and recall.
+- **Modeling:** Evaluated Logistic Regression, Random Forest, and **XGBoost** to find the optimal balance between precision and recall.
 
 ## Key Insights
 
