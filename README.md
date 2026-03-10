@@ -26,7 +26,25 @@ It was found that employees resign according to three main scenarios:
 
 <img width="689" height="624" alt="dataRelationship plot between variables average_monthly_hours and last_evaluation" src="https://github.com/user-attachments/assets/6183d0c6-6336-46b3-ba35-bd9f9d042ad0" />
 
+## Recommendations
 
+To mitigate turnover across different employee segments (Clusters 1, 2, and 3), the following data-driven strategies are proposed:
+
+**For High-Skilled Specialists (Clusters 2 & 3)**
+- Workload Optimization: Implement a structured project distribution strategy. Establish a standard workload of 3 to 5 projects per employee to prevent both burnout and underutilization.
+
+- Hours Regulation: Standardize monthly working hours within the range of 180–260 hours. This ensures productivity while maintaining employee well-being.
+
+- Defined Career Tracks: Develop transparent promotion criteria that explicitly account for both performance efficiency and tenure, providing a clear growth map for senior staff.
+
+**For Entry-Level/Lower-Skilled Staff (Cluster 1)**
+- Refined Recruitment & Incentives: Tighten hiring requirements to ensure better person-job fit, while simultaneously introducing a financial incentive system (bonuses and performance rewards) to boost initial engagement.
+
+- Department-Specific Retention: For high-attrition departments (Sales, Technical, Support), implement strategies to encourage a stable working threshold of at least 180 hours per month.
+
+- HR Capacity Building: Conduct a comprehensive re-evaluation of the HR department. Based on the results, provide targeted training to improve their qualification levels in talent management and organizational support.
+
+  
 
 ## How to View the Project
 Since GitHub often fails to render interactive notebooks and complex HTML (like Confusion Matrices), please use the link below for the best experience:
