@@ -16,7 +16,7 @@ The data used in this project is the **[HR capstone dataset.csv](https://www.kag
 
 ## Evaluation of model results
 ### Confusion matrix
-<img width="257" height="225" alt="dataConfusion Matrix" src="https://github.com/user-attachments/assets/5f0d74bb-8072-4685-958c-308e857e68b0" />
+<img width="400" height="370" alt="dataConfusion Matrix" src="https://github.com/user-attachments/assets/5f0d74bb-8072-4685-958c-308e857e68b0" />
 
 
 
@@ -39,7 +39,8 @@ It was found that employees resign according to three main scenarios:
 
 - experienced specialists — due to excessive workload.
 
-<img width="689" height="624" alt="dataRelationship plot between variables average_monthly_hours and last_evaluation" src="https://github.com/user-attachments/assets/7cb7ae24-463b-49df-b336-e0923cf22252" />
+<img width="533" height="425" alt="dataRelationship between last_evaluation and satisfaction_level" src="https://github.com/user-attachments/assets/0f64f52d-f549-405a-b1f4-6460dbfcfcd8" />
+
 
 
 ## Recommendations
