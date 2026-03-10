@@ -4,7 +4,7 @@
 This Capstone Project focuses on predicting employee attrition at **Salifort Motors**. By analyzing high-dimensional HR data, I developed a machine learning solution to identify key turnover drivers and provide actionable insights for talent retention.
 
 ### Dataset
-The data used in this project is the **[HR Analytics Case Study](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)** (HR_comma_sep.csv). It contains 14,999 rows and 10 attributes representing employee satisfaction, performance, workload, and tenure.
+The data used in this project is the **[HR capstone dataset.csv](https://www.kaggle.com/datasets/ruskolo/hr-capstone-dataset-salifort-motors?select=HR_capstone_dataset.csv)** (HR_capstone_dataset.csv). It contains 14,999 rows and 10 attributes representing employee satisfaction, performance, workload, and tenure.
 
 
 
