@@ -14,6 +14,20 @@ The data used in this project is the **[HR capstone dataset.csv](https://www.kag
     * Applied **Stratification** (`stratify=y`) to maintain the 16.6% churn rate across all datasets.
 - **Modeling:** Evaluated Logistic Regression, Random Forest, and **XGBoost** to find the optimal balance between precision and recall.
 
+## Evaluation of model results
+### Confusion matrix
+<img width="515" height="455" alt="dataConfusion Matrix" src="https://github.com/user-attachments/assets/153de0a7-b967-4130-9e81-a408aaefd403" />
+
+
+The results showed the model's high effectiveness. Among all employees whom the model predicts will be laid off, 89% are actually laid off, meaning that 11% of predictions are false positives.
+
+Among all employees who are actually laid off, the model correctly identifies 90% of cases.
+
+The model demonstrates high prediction quality for a rare class: F1 = 0.90, which indicates a balance between the ability to identify dismissals and minimize false positives.
+
+In addition, the model has high discriminatory power — it effectively distinguishes between employees who are prone to resignation and those who are highly likely to remain with the company.
+
+
 ## Key Insights
 
 It was found that employees resign according to three main scenarios:
