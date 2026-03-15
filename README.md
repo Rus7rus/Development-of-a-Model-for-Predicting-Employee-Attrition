@@ -63,6 +63,37 @@ To mitigate turnover across different employee segments (Clusters 1, 2, and 3), 
 
 <img width="533" height="425" alt="dataRelationship between last_evaluation and satisfaction_level" src="https://github.com/user-attachments/assets/2c5d8a4e-ba6a-4825-a87c-817574f5b172" />
   
+## Remarks
+
+**Methodological Conclusions and Recommendations**
+
+Since this is an educational project, some steps that are important in real-world practice were omitted. To transition to real-world business tasks, two key aspects must be taken into account.
+
+**The Need for Scaling in Logistic Regression**
+
+Data scaling (*standardization or normalization*) was not performed as part of this work. For logistic regression, this is a crucial step in data preparation. Without bringing the features to a common scale, the model may assign greater weight to variables with large numerical values (*e.g., number of hours worked*) compared to variables with small values (*e.g., satisfaction level*). This can distort the assessment of feature importance and negatively impact the quality of model training.
+
+**Using Two Separate Models**
+
+A practical approach is to build two different models depending on the objective.
+
+**Prediction Model**
+The main goal of such a model is to achieve the highest possible predictive accuracy. In this case, it is undesirable to use variable binning, as it makes the data discrete and leads to a loss of information. To achieve high accuracy, the model must use the most detailed information possible.
+
+**Model for interpretation**
+The goal of this model is to explain the causes and interpret the influencing factors. In this case, binning can be useful because it allows for the formation of simple and understandable rules (e.g., if work experience exceeds 5 years, the risk of dismissal increases). This facilitates the interpretation of results for practical use, although the overall accuracy of such a model will typically be lower.
+
+Translated with DeepL.com (free version)
+
+**Interpretation Issues**
+
+Due to the fact that the analysis was conducted under conditions where it was impossible to make clarifications or obtain answers to questions that arose during the study from stakeholders, the conclusions are presumptive and do not reflect the actual situation within the company. 
+
+After establishing correlations between influence factors and the characteristics of the terminated employee groups, it is almost impossible to determine which is the cause and which is the effect.
+
+For instance, in the Cluster 1 turnover group, a hypothesis was adopted that terminations were initiated by company management due to a failure to meet requirements, such as low performance ratings and underutilization. However, another scenario is possible — for example, staff reductions due to the phasing out of short-term programs or the emergence of force majeure circumstances. In such a case, the characteristic features of those dismissed would have indirect rather than direct causes.
+
+
 
 ## How to View the Project
 Since GitHub often fails to render interactive notebooks and complex HTML (like Confusion Matrices), please use the link below for the best experience:
