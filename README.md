@@ -92,12 +92,5 @@ After establishing correlations between influence factors and the characteristic
 
 For instance, in the Cluster 1 turnover group, a hypothesis was adopted that terminations were initiated by company management due to a failure to meet requirements, such as low performance ratings and underutilization. However, another scenario is possible — for example, staff reductions due to the phasing out of short-term programs or the emergence of force majeure circumstances. In such a case, the characteristic features of those dismissed would have indirect rather than direct causes.
 
-
-
-## How to View the Project
-Since GitHub often fails to render interactive notebooks and complex HTML (like Confusion Matrices), please use the link below for the best experience:
-
- **[View Full Project on NBViewer](https://nbviewer.org/github/Rus7rus/Development-of-a-Model-for-Predicting-Employee-Attrition/blob/main/Capstone_Project_Salifort_Motors.ipynb)**
-
 ---
 *Developed as the final Capstone Project for the Google Advanced Data Analytics Professional Certificate.*
