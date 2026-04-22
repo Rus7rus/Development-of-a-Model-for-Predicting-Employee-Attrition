@@ -83,7 +83,6 @@ The main goal of such a model is to achieve the highest possible predictive accu
 **Model for interpretation**
 The goal of this model is to explain the causes and interpret the influencing factors. In this case, binning can be useful because it allows for the formation of simple and understandable rules (e.g., if work experience exceeds 5 years, the risk of dismissal increases). This facilitates the interpretation of results for practical use, although the overall accuracy of such a model will typically be lower.
 
-Translated with DeepL.com (free version)
 
 **Interpretation Issues**
 
